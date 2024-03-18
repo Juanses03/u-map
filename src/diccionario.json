@@ -1,0 +1,13 @@
+{
+    "alias_a_nombre_completo": {
+      "ADMINISTRATIVE_BUILDING_MAIN_ENTRANCE": "Nombre completo del origen 1",
+      "OTHER_BUILDING_MAIN_ENTRANCE": "Nombre completo del destino 1",
+      "STREETS_CARRERA_16_40A": "Nombre completo del lugar intermedio 1"
+    },
+    "nombre_completo_a_alias": {
+      "Nombre completo del origen 1": "ADMINISTRATIVE_BUILDING_MAIN_ENTRANCE",
+      "Nombre completo del destino 1": "OTHER_BUILDING_MAIN_ENTRANCE",
+      "Nombre completo del lugar intermedio 1": "STREETS_CARRERA_16_40A"
+    }
+  }
+  
